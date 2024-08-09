@@ -15,6 +15,12 @@
   #CUSTOM PROPERTY
 \*-----------------------------------*/
 
+footer{
+  text-align: center;
+  color: rgb(153, 153, 153);
+  margin-bottom: auto;
+}
+
 :root {
 
   /**
@@ -1639,11 +1645,6 @@ textarea.form-input::-webkit-resizer { display: none; }
     margin-left: auto;
   }
   
-}
-footer{
-  text-align: center;
-  color: rgb(153, 153, 153);
-  margin-bottom: auto;
 }
 
 
