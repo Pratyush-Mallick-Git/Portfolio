@@ -1640,7 +1640,11 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
   
 }
-
+footer{
+  text-align: center;
+  color: rgb(153, 153, 153);
+  margin-bottom: auto;
+}
 
 
 
